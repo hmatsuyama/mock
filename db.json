@@ -27,19 +27,19 @@
       "name": "テストコンテンツ２",
       "partList":[
         {
-          id: "abcdefg",
-          partType:"text-part",
-          keyName: "someSavedKey",
-          partData:{
-            value:"someSavedValue"
+          "id": "abcdefg",
+          "partType":"text-part",
+          "keyName": "someSavedKey",
+          "partData":{
+            "value":"someSavedValue"
           }
         },
         {
-          id: "1234556",
-          partType:"textarea-part",
-          keyName: "someSavedKey",
-          partData:{
-            value:"someSavedValue\nsomeSavedValue2"
+          "id": "1234556",
+          "partType":"textarea-part",
+          "keyName": "someSavedKey",
+          "partData":{
+            "value":"someSavedValue\nsomeSavedValue2"
           }
         }
       ]
