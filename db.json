@@ -5,19 +5,19 @@
       "name": "テストコンテンツ１",
       "partList:[
         {
-          id: "abcdefg",
-          partType:"text-part",
-          keyName: "myFirstName",
-          partData:{
-            value:"Hiroshi"
+          "id": "abcdefg",
+          "partType":"text-part",
+          "keyName": "myFirstName",
+          "partData":{
+            "value":"Hiroshi"
           }
         },
         {
-          id: "1234556",
-          partType:"text-part",
-          keyName: "myLastName",
-          partData:{
-            value:"Matsuyama"
+          "id": "1234556",
+          "partType":"text-part",
+          "keyName": "myLastName",
+          "partData":{
+            "value":"Matsuyama"
           }
         }
       ]
@@ -25,7 +25,7 @@
     {
       "id": 2,
       "name": "テストコンテンツ２",
-      "partList:[
+      "partList":[
         {
           id: "abcdefg",
           partType:"text-part",
