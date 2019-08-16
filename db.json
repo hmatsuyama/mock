@@ -1,0 +1,48 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "name": "テストコンテンツ１",
+      "partList:[
+        {
+          id: "abcdefg",
+          partType:"text-part",
+          keyName: "myFirstName",
+          partData:{
+            value:"Hiroshi"
+          }
+        },
+        {
+          id: "1234556",
+          partType:"text-part",
+          keyName: "myLastName",
+          partData:{
+            value:"Matsuyama"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "テストコンテンツ２",
+      "partList:[
+        {
+          id: "abcdefg",
+          partType:"text-part",
+          keyName: "someSavedKey",
+          partData:{
+            value:"someSavedValue"
+          }
+        },
+        {
+          id: "1234556",
+          partType:"textarea-part",
+          keyName: "someSavedKey",
+          partData:{
+            value:"someSavedValue\nsomeSavedValue2"
+          }
+        }
+      ]
+    }
+  ]
+}
