@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "テストコンテンツ１",
-      "partList:[
+      "partList":[
         {
           "id": "abcdefg",
           "partType":"text-part",
